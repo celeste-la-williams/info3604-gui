@@ -9,4 +9,4 @@ To run:
 
   The app will be on the link with ngrok : eg: http://3abda12ec3c0.ngrok.io/
   
-  (An example notebook is provided to show the layout of the code in Google Colab
+  (An example notebook is provided to show the layout of the code in Google Colab)
